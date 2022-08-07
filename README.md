@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bkaye20 || Binoy
 - 👀 I’m a Backend Developer Trainee
 - 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on Anyhring
+- 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me instagram@soullessnomad
 
 <!---

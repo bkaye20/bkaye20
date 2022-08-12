@@ -2,9 +2,9 @@
 - 👀 I’m a Backend Developer Trainee
 - 🌱 I’m currently learning Mongoose Data Base
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me `Instagram @soullessnomad
-                      `Discord: bkaye#4022
-                      `https://www.linkedin.com/in/hibinoykurian/
+- 📫 How to reach me `Instagram @soullessnomad|
+                      `Discord: bkaye#4022|
+                      Linkedin:`https://www.linkedin.com/in/hibinoykurian/
 
 <!---
 bkaye20/bkaye20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me `Instagram @soullessnomad|
                       `Discord: bkaye#4022|
-                      Linkedin:`https://www.linkedin.com/in/hibinoykurian/
+                      `Linkedin: https://www.linkedin.com/in/hibinoykurian/
 
 <!---
 bkaye20/bkaye20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
